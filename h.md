@@ -2,16 +2,31 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jakub--k--0-blue)](https://www.linkedin.com/in/jakub-k-0/)
 [![GitHub](https://img.shields.io/badge/GitHub-Krulik00Jakub-darkgreen)](https://github.com/Krulik00Jakub)
-
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://biopython.org/assets/images/biopython_logo_s.png" title="numpy" alt="numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgres" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+</div>
 ## About Me
 
 I am a results-driven BSc Computing/IS student with a passion for data science and research. With a GPA of 3.68/4.0, I am pursuing a Bachelor of Science in Computing and Information Systems at Athabasca University. My diverse project experiences include designing a blog information system, implementing a healthcare database system, developing a car sharing system, and creating an operating system module. I have also collaborated with research scientists, utilizing Python data science methods for genomic data analysis in the field of bioremediation. I am a quick learner, researcher, and a dedicated team player.
 
 ## GitHub Statistics
 
-![Jakub's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Krulik00Jakub&show_icons=true&count_private=true&hide_title=true&hide_border=true&hide=stars)
+![Jakub's GitHub Statistics](http://github-readme-streak-stats.herokuapp.com?user=Krulik00Jakub&theme=dark&background=000000))
 
-![Jakub's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krulik00Jakub&layout=compact&hide_border=true)
+![Jakub's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krulik00Jakub&layout=compact&theme=vision-friendly-dark)
 
 ## Education
 
