@@ -29,7 +29,7 @@ I am a results-driven BSc Computing/IS student with a passion for data science a
 
 ## GitHub Statistics
 
-![Jakub's GitHub Statistics](http://github-readme-streak-stats.herokuapp.com?user=Krulik00Jakub&theme=dark&background=000000) ![Jakub's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Krulik00Jakub&layout=compact&theme=vision-friendly-dark)
+![Jakub's GitHub Statistics](http://github-readme-streak-stats.herokuapp.com?user=krulik1&theme=dark&background=000000) ![Jakub's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krulik1&layout=compact&theme=vision-friendly-dark)
 
 ## Education
 
