@@ -27,4 +27,4 @@
 </div>
   
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krulik00Jakub&layout=compact&theme=vision-friendly-dark)](https://github.com/Krulik00Jakub/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krulik1&layout=compact&theme=vision-friendly-dark)](https://github.com/krulik1/github-readme-stats)
