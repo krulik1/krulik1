@@ -47,6 +47,11 @@ I am a results-driven BSc Computing/IS student with a passion for data science a
 
 ## Projects
 
+### Protein Secondary Analysis | Personal Project: 2023
+- Wrote scripts to aid in the determination of secondary structure of proteins.
+- Practised data analysis and preparation skills on proteomic data.
+- Visit: [Protein Secondary Analysis](https://github.com/krulik1/Protein-2ndary-struc-analysis)
+
 ### Healthcare Database System | Design Project: Introduction to Database Management 2022
 - Designed and implemented a healthcare-oriented database system using entity-relationship models, business rules, functional dependencies/normal forms, and physical database design.
 - Utilized PostgreSQL for the final implementation.
