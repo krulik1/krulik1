@@ -25,7 +25,7 @@
 
 ## About Me
 
-I am a results-driven BSc Computing/IS student with a passion for data science and research. With a GPA of 3.68/4.0, I am pursuing a Bachelor of Science in Computing and Information Systems at Athabasca University. My diverse project experiences include designing a blog information system, implementing a healthcare database system, developing a car sharing system, and creating an operating system module. I have also collaborated with research scientists, utilizing Python data science methods for genomic data analysis in the field of bioremediation. I am a quick learner, researcher, and a dedicated team player.
+I am a results-driven BSc Computing/IS student with a passion for data science and research. With a GPA of 3.74/4.0, I am pursuing a Bachelor of Science in Computing and Information Systems at Athabasca University. My diverse project experiences include designing a blog information system, implementing a healthcare database system, developing a car sharing system, and creating an operating system module. I have also collaborated with research scientists, utilizing Python data science methods for genomic data analysis in the field of bioremediation. I am a quick learner, researcher, and a dedicated team player.
 
 ## GitHub Statistics
 
