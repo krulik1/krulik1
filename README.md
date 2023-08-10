@@ -84,4 +84,8 @@ I am a results-driven BSc Computing/IS student with a passion for data science a
 - Data Science: NumPy, Pandas, BioPython, Scala, Data Cleaning, Data Structures and Algorithms, Data ETL Pipelines
 - Productivity: MS Word, MS Excel, MS PowerPoint, MS Access, MS Outlook, SharePoint, OneDrive, Notion
 
+## Certifications
+- WHMIS - exp: SEP 2023
+- GCP - exp: JUN 2024
+
 Feel free to reach out to me at krulikjakub@outlook.com or through LinkedIn. Let's connect and collaborate!
