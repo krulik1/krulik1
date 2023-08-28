@@ -42,7 +42,7 @@ My current learning goals are:
 
 ## Recent Projects
 
-### Comparative Analysis of Synchronization Algorithms:
+### Comparative Analysis of Synchronization Algorithms | Analysis Project: In Progress
 - Implemented, tested, and benchmarked a concurrent programming algorithm using Kotlin and JMH (Java
 Microbenchmark Harness) based off of recent publications in the ACM (Association of Computing Machinery)
 - Used benchmarking data to perform analysis and comparison to industry standards in concurrent programming.
