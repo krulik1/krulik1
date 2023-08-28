@@ -27,7 +27,9 @@
 I am a results-driven BSc Computing/IS student with a passion for data science and research. With a GPA of 3.74/4.0. I believe that the online nature of my program promotes a self-motivated attitude and strong organization skills.
 
 My current learning goals are:
-* to gain practise training recurrant and convolutional `neural networks` using `tensorflow`, data visualization and statistical analysis with `numpy`, `pyplot`, and `pandas`. Lastly, the themes that I tend to focus my projects on are related to `🦠 genomics`, `🌸 metabolomics`, `🩺 medical imaging`, and `📊 algorithm design`.
+*  Practice training recurrant and convolutional `neural networks` using `tensorflow`
+*  Data visualization and statistical analysis with `numpy`, `pyplot`, and `pandas`.
+*  The themes that I tend to focus my projects on are related to `🦠 genomics`, `🌸 metabolomics`, `🩺 medical imaging`, and `📊 algorithm design`.
 
 ## GitHub Statistics
 
