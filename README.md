@@ -39,7 +39,7 @@ I am a results-driven BSc Computing/IS student with a passion for data science a
 ## Recent Projects
 
 ### Molecode | Hackathon Team Project: 2023
-- A cholesterol degrading protein prediction model using deep learning with recurrent neural networks.
+- A cholesterol-degrading enzyme prediction model using deep learning with recurrent neural networks.
 - Performed literature review, and selected/preprocessed training data.
 - Created a web app that allows users to run protein sequences through the deep learning model remotely.
 - Visit: [Molecode](https://devpost.com/software/molecode)
