@@ -24,7 +24,8 @@
 
 ## About Me
 
-I am a results-driven BSc Computing/IS student with a passion for data science and research. With a GPA of 3.74/4.0, I am pursuing a Bachelor of Science in Computing and Information Systems at Athabasca University. My diverse project experiences include designing a blog information system, implementing a healthcare database system, developing a car sharing system, and creating an operating system module. I have also collaborated with research scientists, utilizing Python data science methods for genomic data analysis in the field of bioremediation. I am a quick learner, researcher, and a dedicated team player.
+I am a results-driven BSc Computing/IS student with a passion for data science and research. With a GPA of 3.74/4.0. I believe that the online nature of my program promotes a self-motivated attitude and strong organization skills.
+My current learning goals are to gain practise training recurrant and convolutional neural networks using tensorflow, data visualization and statistical analysis with numpy, pyplot, and pandas. Lastly, the themes that I tend to focus my projects on are related to genomics, metabolomics, medical imaging, and algorithm design.
 
 ## GitHub Statistics
 
@@ -36,6 +37,11 @@ I am a results-driven BSc Computing/IS student with a passion for data science a
   Athabasca University – Remote: Athabasca, AB
 
 ## Recent Projects
+
+## Comparative Analysis of Synchronization Algorithms:
+- Implemented, tested, and benchmarked a concurrent programming algorithm using Kotlin and JMH (Java
+Microbenchmark Harness) based off of recent publications in the ACM (Association of Computing Machinery)
+- Used benchmarking data to perform analysis and comparison to industry standards in concurrent programming.
 
 ### Molecode | Hackathon Team Project: 2023
 - A cholesterol-degrading enzyme prediction model using deep learning with recurrent neural networks.
