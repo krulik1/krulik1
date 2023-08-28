@@ -70,6 +70,6 @@ Microbenchmark Harness) based off of recent publications in the ACM (Association
 - **System Analysis:** Microsoft Visio, Visual Paradigm, EER Diagrams, UML, Database Design, Object-Oriented Design
 - **Mathematics:** Markov Models, Linear Optimization, Simplex Method, Calculus, Statistics, Regression, ANOVA
 - **Data Science:** NumPy, Pandas, BioPython, Tensorflow, PL/SQL, Data ETL Pipelines
-- **Tools:** MS Office, MS Outlook, Notion, Eclipse, Visual Studio Code, Git
+- **Tools:** MS Office, MS Outlook, Notion, Eclipse, Visual Studio Code, Git, Jupyter
 
 Feel free to reach out to me at krulikjakub@outlook.com or through LinkedIn. Let's connect and collaborate!
