@@ -29,7 +29,7 @@ I am a results-driven BSc Computing/IS student with a passion for data science a
 My current learning goals are:
 *  Practice training recurrant and convolutional `neural networks` using `tensorflow`
 *  Data visualization and statistical analysis with `numpy`, `pyplot`, and `pandas`.
-*  The themes that I focus my projects on are `🧪 genomics`, `🍇 metabolomics`, `🩺 medical imaging`, and `📊 algorithm design`.
+*  The themes that I focus my projects on are `🧪 genomics`, `🌱 metabolomics`, `🩺 medical imaging`, and `📊 algorithm design`.
 
 ## GitHub Statistics
 
