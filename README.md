@@ -56,10 +56,11 @@ I am a results-driven BSc Computing/IS student with a passion for data science a
 
 ## Skills
 
-- Programming: Java, Python, C, HTML, CSS, HTTP Requests, PL/SQL, PowerShell, BASH, Eclipse, Tomcat
-- System Analysis: Microsoft Visio, Visual Paradigm, EER Diagrams, UML, Database Design, Object-Oriented Design
-- Mathematics: Markov Models, Linear Optimization, Simplex Method, Calculus, Statistics, Regression, ANOVA
-- Data Science: NumPy, Pandas, BioPython, Scala, Data Cleaning, Data Structures and Algorithms, Data ETL Pipelines
-- Productivity: MS Word, MS Excel, MS PowerPoint, MS Access, MS Outlook, SharePoint, OneDrive, Notion
+- **Programming:** Java, Python, C, kotlin, PowerShell, BASH, Eclipse
+- **Web:** HTML, CSS, Flask, JSP, HTTP, Tomcat Server
+- **System Analysis:** Microsoft Visio, Visual Paradigm, EER Diagrams, UML, Database Design, Object-Oriented Design
+- **Mathematics:** Markov Models, Linear Optimization, Simplex Method, Calculus, Statistics, Regression, ANOVA
+- **Data Science:** NumPy, Pandas, BioPython, Tensorflow, PL/SQL, Data ETL Pipelines
+- **Tools:** MS Office, MS Outlook, Notion, Eclipse, Visual Studio Code, Git
 
 Feel free to reach out to me at krulikjakub@outlook.com or through LinkedIn. Let's connect and collaborate!
