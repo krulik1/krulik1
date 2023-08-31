@@ -24,7 +24,7 @@
 
 ## About Me
 
-I am a results-driven BSc Computing/IS student with a passion for data science and research. With a GPA of 3.74/4.0. I believe that the online nature of my program promotes a self-motivated attitude and strong organization skills.
+I am a results-driven BSc Computing and Human Sciences student with a passion for data science and research. With a GPA of 3.74/4.0. I believe that the online nature of my program promotes a self-motivated attitude and strong organization skills.
 
 My current learning goals are:
 *  Practice training recurrant and convolutional `neural networks` using `tensorflow` + `keras` and `pytorch`
