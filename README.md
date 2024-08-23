@@ -1,7 +1,7 @@
 # Hello, I'm Jakub Krulik :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-krulik1-blue)](https://www.linkedin.com/in/krulik1/)
-[![GitHub](https://img.shields.io/badge/GitHub-Krulik00Jakub-darkgreen)](https://github.com/Krulik00Jakub)
+[![GitHub](https://img.shields.io/badge/GitHub-Krulik1-darkgreen)](https://github.com/krulik1)
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
