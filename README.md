@@ -61,7 +61,7 @@ Microbenchmark Harness) based off of recent publications in the ACM (Association
 ### Healthcare Database System | Design Project: Introduction to Database Management 2022
 - Designed and implemented a healthcare-oriented database system using entity-relationship models, business rules, functional dependencies/normal forms, and physical database design.
 - Utilized PostgreSQL for the final implementation.
-- Visit: [Healthcare Database System](https://github.com/Krulik00Jakub/Healthcare-Database-System)
+- Visit: [Healthcare Database System](https://github.com/krulik1/Healthcare_Database-System.git)
 
 ## Skills
 
