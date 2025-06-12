@@ -24,7 +24,7 @@
 
 ## About Me
 
-I am a results-driven BSc Computing and Human Sciences student with a passion for data science and research. With a GPA of 3.74/4.0. I believe that the online nature of my program promotes a self-motivated attitude and strong organization skills.
+I am a results-driven BSc Computing and Biological Sciences student with a passion for data science and research. With a GPA of 3.74/4.0. I believe that the online nature of my program promotes a self-motivated attitude and strong organization skills.
 
 My current learning goals are:
 *  Practise medical writing skills for patient education, regulatory writing, essays, and research manuscripts.
@@ -37,12 +37,12 @@ My current learning goals are:
 
 ## Education
 
-- Bachelor of Science – Computing and Information Systems (2020 – 2025)  
+- Bachelor of Science – Computing and Information Systems (2020 – 2027)  
   Athabasca University – Remote: Athabasca, AB
 
 ## Recent Projects
 
-### Patient Education Article on Rapid Vitamin D Normalization 
+### Patient Education Article on Rapid Vitamin D Normalization: 2025
 - Created a patient education article (mock) summarizing a pediatric vitamin D clinical trial, developed for practice
 purposes using ICH-GCP principles and caregiver literacy guidelines.
 - Visit: [Portfolio](https://github.com/krulik1/medical-writing-portfolio.git)
@@ -65,11 +65,11 @@ purposes using ICH-GCP principles and caregiver literacy guidelines.
 
 ## Skills
 
-- **Programming:** Java, Python, C, kotlin, PowerShell, BASH, Eclipse
+- **Programming:** Python, R, BASH, Java
 - **Web:** HTML, CSS, Flask, JSP, HTTP, Tomcat Server
 - **System Analysis:** Microsoft Visio, Visual Paradigm, EER Diagrams, UML, Database Design, Object-Oriented Design
 - **Mathematics:** Markov Models, Linear Optimization, Simplex Method, Calculus, Statistics, Regression, ANOVA
-- **Data Science:** NumPy, Pandas, BioPython, Tensorflow, PL/SQL, Data ETL Pipelines
+- **Data Science:** NumPy, Pandas, Pyplot, Seaborn, ggplot2 BioPython, Tensorflow, PL/SQL, Data ETL Pipelines
 - **Tools:** MS Office, MS Outlook, Notion, Eclipse, Visual Studio Code, Git, Jupyter
 
 Feel free to reach out to me at krulikjakub@outlook.com or through LinkedIn. Let's connect and collaborate!
