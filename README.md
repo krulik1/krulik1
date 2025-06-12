@@ -27,9 +27,9 @@
 I am a results-driven BSc Computing and Human Sciences student with a passion for data science and research. With a GPA of 3.74/4.0. I believe that the online nature of my program promotes a self-motivated attitude and strong organization skills.
 
 My current learning goals are:
-*  Practice training recurrant and convolutional `neural networks` using `tensorflow` + `keras` and `pytorch`
+*  Practise medical writing skills for patient education, regulatory writing, essays, and research manuscripts.
 *  Data visualization and statistical analysis with `numpy`, `pyplot`, and `pandas`
-*  The themes that I focus my projects on are `🧪 genomics`, `🌱 metabolomics`, `🩺 medical imaging`, and `📊 algorithm design`.
+*  The themes that I focus my projects on are `🧬 genomics`, `🌱 metabolomics`,  `🧪 Chemistry` and `📈 epidemiology`.
 
 ## GitHub Statistics
 
@@ -42,10 +42,10 @@ My current learning goals are:
 
 ## Recent Projects
 
-### Comparative Analysis of Synchronization Algorithms | Analysis Project: In Progress
-- Implemented, tested, and benchmarked a concurrent programming algorithm using Kotlin and JMH (Java
-Microbenchmark Harness) based off of recent publications in the ACM (Association of Computing Machinery)
-- Used benchmarking data to perform analysis and comparison to industry standards in concurrent programming.
+### Patient Education Article on Rapid Vitamin D Normalization 
+- Created a patient education article (mock) summarizing a pediatric vitamin D clinical trial, developed for practice
+purposes using ICH-GCP principles and caregiver literacy guidelines.
+- Visit: [Portfolio](https://github.com/krulik1/medical-writing-portfolio.git)
 
 ### Molecode | Hackathon Team Project: 2023
 - A cholesterol-degrading enzyme prediction model using deep learning with recurrent neural networks.
